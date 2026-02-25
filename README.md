@@ -1,5 +1,6 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQE11BgnvxiSWw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694705360166?e=1773878400&v=beta&t=CSSDnSIg5KA2_iEuVsayutFvTKlAvogNfyM0QBtd2_s" style="margin: 0 auto; display: block; margin-bottom: 1rem;">
-
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE11BgnvxiSWw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694705360166?e=1773878400&v=beta&t=CSSDnSIg5KA2_iEuVsayutFvTKlAvogNfyM0QBtd2_s"">
+</div>
 <!-- <div align="center">
   <a href="https://github.com/vicventum?tab=repositories&sort=stargazers">
     <img alt="estrellas totales" title="Estrellas totales en GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/vicventum"/></a>
@@ -19,8 +20,7 @@
 
 ### 👋 Un poco sobre mí
 
-<div style="display: flex; align-items: center; justify-content: space-evenly; gap: 1rem">
-<div>
+<img src="darth-vader-heart.gif" width="200" alt="Darth Vader Heart" align="right">
 
 - 📍 **Basado en:** Valencia, Venezuela.
 - 💻 **Experiencia:** +6 años como Frontend Developer
@@ -29,12 +29,6 @@
 - 🧱 **Metodología:** Defensor de los Design Systems y Atomic Design.
 - 🎨 **Mindset:** Obsesión por el detalle (Pixel Perfect) y excelencia en UI/UX.
 - 🌌 **Intereses:** Fan de Star Wars.
-</div>
-
-<img src="darth-vader-heart.gif" width="230" alt="Darth Vader Heart">
-<!-- <img src="darth-vader-heart.gif" alt="Darth Vader Heart"> -->
-
-</div>
 
 ---
 
