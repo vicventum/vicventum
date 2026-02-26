@@ -17,9 +17,11 @@
 
 +6 años de experiencia como Frontend Developer en consultoras y startups de alto crecimiento, diseñando arquitecturas frontend escalables y mantenibles basadas en principios de DDD y SOLID. Especializado en Vue.js y Nuxt, con enfoque en Atomic Design, la atención al detalle y la calidad de código para desarrollar web apps robustas, desacopladas y orientadas a las necesidades del negocio.
 
-<img src="darth-vader-heart.gif" width="230" alt="Darth Vader Heart" align="right">
 
 ### 👋 Un poco sobre mí
+
+<!-- <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/> -->
+<img src="darth-vader-heart.gif" width="280" alt="Darth Vader Heart" align="right"> 
 
 - 📍 **Basado en:** Valencia, Venezuela.
 - 💻 **Experiencia:** +6 años como Frontend Developer
@@ -29,7 +31,7 @@
 - 🎨 **Mindset:** Obsesión por el detalle (Pixel Perfect) y excelencia en UI/UX.
 - 🌌 **Intereses:** Fan de Star Wars.
 
----
+<!-- --- -->
 
 ### 🤝 Conecta conmigo:
 
