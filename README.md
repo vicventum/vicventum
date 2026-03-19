@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQE11BgnvxiSWw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694705360166?e=1773878400&v=beta&t=CSSDnSIg5KA2_iEuVsayutFvTKlAvogNfyM0QBtd2_s" align="center">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE11BgnvxiSWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694705360166?e=1775692800&v=beta&t=LJkAz7tP5uEpMOaVEqiGk4VhTK-4C8tmB00s464Xy1s" align="center">
 
 <!-- <div align="center">
   <a href="https://github.com/vicventum?tab=repositories&sort=stargazers">
@@ -13,7 +13,7 @@
 
 <!-- ### ¡Hola! Soy Víctor 👋 -->
 
-## 🚀 Frontend Developer | Especialista en Arquitecturas Escalables
+## 🚀 Frontend Developer | Arquitecturas Escalables
 
 +6 años de experiencia como Frontend Developer en consultoras y startups de alto crecimiento, diseñando arquitecturas frontend escalables y mantenibles basadas en principios de DDD y SOLID. Especializado en Vue.js y Nuxt, con enfoque en Atomic Design, la atención al detalle y la calidad de código para desarrollar web apps robustas, desacopladas y orientadas a las necesidades del negocio.
 
